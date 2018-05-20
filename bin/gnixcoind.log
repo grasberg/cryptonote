@@ -1,23 +1,23 @@
-2018-May-20 14:51:44.339325 INFO [daemon] Gnixcoin v1.1.1.1()
-2018-May-20 14:51:44.342317 INFO [daemon] Module folder: gnixcoind.exe
-2018-May-20 14:51:44.345309 INFO [daemon] Initializing p2p server...
-2018-May-20 14:51:44.346307 INFO [node_server] Binding on 0.0.0.0:17321
-2018-May-20 14:51:44.348301 INFO [node_server] Net service binded on 0.0.0.0:17321
-2018-May-20 14:51:44.350305 INFO [node_server] Attempting to add IGD port mapping.
-2018-May-20 14:51:45.424423 INFO [node_server] Added IGD port mapping.
-2018-May-20 14:51:45.427426 INFO [daemon] P2p server initialized OK
-2018-May-20 14:51:45.428412 INFO [daemon] Initializing core...
-2018-May-20 14:51:45.430407 INFO [Blockchain] Loading blockchain...
-2018-May-20 14:51:45.431404 WARNING [Blockchain] No actual blockchain cache found, rebuilding internal structures...
-2018-May-20 14:51:45.435393 INFO [Blockchain] Height 0 of 1457
-2018-May-20 14:51:45.469330 INFO [Blockchain] Height 1000 of 1457
-2018-May-20 14:51:45.486258 INFO [Blockchain] Rebuilding internal structures took: 0.0508648
-2018-May-20 14:51:45.488252 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
-2018-May-20 14:51:45.490247 WARNING [Blockchain] No actual blockchain indices for BlockchainExplorer found, rebuilding...
-2018-May-20 14:51:45.493248 INFO [Blockchain] Height 0 of 1457
-2018-May-20 14:51:45.522162 INFO [Blockchain] Height 1000 of 1457
-2018-May-20 14:51:45.537123 INFO [Blockchain] Rebuilding blockchain indices took: 0.0438744
-2018-May-20 14:51:45.540113 ERROR [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
-2018-May-20 14:51:45.544103 ERROR [core] Failed to initialize blockchain storage
-2018-May-20 14:51:45.545100 ERROR [daemon] Failed to initialize core
-2018-May-20 14:51:45.547095 INFO [miner] Mining has been stopped, 0 finished
+2018-May-20 16:48:48.556485 INFO [daemon] Gnixcoin v1.1.1.1()
+2018-May-20 16:48:48.559477 INFO [daemon] Module folder: gnixcoind.exe
+2018-May-20 16:48:48.562466 INFO [daemon] Initializing p2p server...
+2018-May-20 16:48:48.563467 INFO [node_server] Binding on 0.0.0.0:17321
+2018-May-20 16:48:48.566436 INFO [node_server] Net service binded on 0.0.0.0:17321
+2018-May-20 16:48:48.568430 INFO [node_server] Attempting to add IGD port mapping.
+2018-May-20 16:48:54.156064 INFO [node_server] Added IGD port mapping.
+2018-May-20 16:48:54.158035 INFO [daemon] P2p server initialized OK
+2018-May-20 16:48:54.160030 INFO [daemon] Initializing core...
+2018-May-20 16:48:54.162025 INFO [Blockchain] Loading blockchain...
+2018-May-20 16:48:54.163022 WARNING [Blockchain] No actual blockchain cache found, rebuilding internal structures...
+2018-May-20 16:48:54.177982 INFO [Blockchain] Height 0 of 1457
+2018-May-20 16:48:54.209897 INFO [Blockchain] Height 1000 of 1457
+2018-May-20 16:48:54.225880 INFO [Blockchain] Rebuilding internal structures took: 0.0478986
+2018-May-20 16:48:54.227849 INFO [Blockchain] Loading blockchain indices for BlockchainExplorer...
+2018-May-20 16:48:54.229843 WARNING [Blockchain] No actual blockchain indices for BlockchainExplorer found, rebuilding...
+2018-May-20 16:48:54.231838 INFO [Blockchain] Height 0 of 1457
+2018-May-20 16:48:54.260787 INFO [Blockchain] Height 1000 of 1457
+2018-May-20 16:48:54.275721 INFO [Blockchain] Rebuilding blockchain indices took: 0.0438832
+2018-May-20 16:48:54.278713 ERROR [Blockchain] Failed to init: genesis block mismatch. Probably you set --testnet flag with data dir with non-test blockchain or another network.
+2018-May-20 16:48:54.282702 ERROR [core] Failed to initialize blockchain storage
+2018-May-20 16:48:54.284697 ERROR [daemon] Failed to initialize core
+2018-May-20 16:48:54.285693 INFO [miner] Mining has been stopped, 0 finished
