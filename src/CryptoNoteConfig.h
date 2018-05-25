@@ -75,6 +75,9 @@ const char     MINER_CONFIG_FILE_NAME[]                      = "miner_conf.json"
 //TODO Put here the name of your currency
 const char     CRYPTONOTE_NAME[]                             = "Gnixcoin";
 const char     GENESIS_COINBASE_TX_HEX[]                     = "";
+=======
+const char     GENESIS_COINBASE_TX_HEX[]                     = "010a01ff0001f8a181eff50b029b2e4c0281c0b02e7c53291a94d1d0cbff8883f8024f5142ee494ffbbd08807121010d5ac77114e89923a77b28d43f13c86f5d48cf70e35cd2f8345436593a7d38dd";
+>>>>>>> 60ad94343f246a891aedbc016ac1bf2fa83f041f
 
 const uint8_t  CURRENT_TRANSACTION_VERSION                   =  1;
 const uint8_t  BLOCK_MAJOR_VERSION_1                         =  1;
